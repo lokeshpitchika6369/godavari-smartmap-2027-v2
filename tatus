@@ -1,0 +1,1537 @@
+README.md:3: trailing whitespace.
+[32m+[m[32m**Innovation Challenge**: AP Government Innovation Challenge — PS-09: GIS-Based Mapping of Facilities and Civic Infrastructure[m[41m  [m
+README.md:4: trailing whitespace.
+[32m+[m[32m**Event**: Godavari Pushkaralu 2027[m[41m  [m
+backend/.env.example:26: new blank line at EOF.
+backend/app/api/v1/api.py:11: new blank line at EOF.
+backend/app/api/v1/endpoints/crowd.py:19: trailing whitespace.
+[32m+[m[41m    [m
+backend/app/api/v1/endpoints/crowd.py:26: trailing whitespace.
+[32m+[m[41m        [m
+backend/app/api/v1/endpoints/crowd.py:51: trailing whitespace.
+[32m+[m[41m        [m
+backend/app/api/v1/endpoints/crowd.py:82: trailing whitespace.
+[32m+[m[32m            SELECT[m[41m [m
+backend/app/api/v1/endpoints/crowd.py:95: trailing whitespace.
+[32m+[m[41m        [m
+backend/app/api/v1/endpoints/crowd.py:107: trailing whitespace.
+[32m+[m[41m            [m
+backend/app/api/v1/endpoints/emergency.py:166: trailing whitespace.
+[32m+[m[41m        [m
+backend/app/api/v1/endpoints/sync.py:287: trailing whitespace.
+[32m+[m[41m            [m
+backend/app/core/config.py:10: trailing whitespace.
+[32m+[m[41m    [m
+backend/app/core/config.py:13: trailing whitespace.
+[32m+[m[41m    [m
+backend/app/core/config.py:19: trailing whitespace.
+[32m+[m[41m    [m
+backend/app/core/config.py:23: trailing whitespace.
+[32m+[m[41m    [m
+backend/app/core/config.py:27: trailing whitespace.
+[32m+[m[41m    [m
+backend/app/db/session.py:16: trailing whitespace.
+[32m+[m[41m    [m
+backend/app/db/session.py:21: trailing whitespace.
+[32m+[m[41m    [m
+backend/app/db/session.py:140: trailing whitespace.
+[32m+[m[32m    CREATE UNIQUE INDEX IF NOT EXISTS idx_idempotency_key_unique[m[41m [m
+backend/app/db/session.py:227: trailing whitespace.
+[32m+[m[41m    [m
+backend/tests/test_phase4_1_emergency_sos.py:127: trailing whitespace.
+[32m+[m[41m    [m
+backend/tests/test_phase4_1_emergency_sos.py:132: trailing whitespace.
+[32m+[m[41m    [m
+backend/tests/test_phase4_1_emergency_sos.py:142: trailing whitespace.
+[32m+[m[41m    [m
+backend/tests/test_phase4_1_emergency_sos.py:148: trailing whitespace.
+[32m+[m[41m    [m
+backend/tests/test_phase4_1_emergency_sos.py:160: trailing whitespace.
+[32m+[m[41m    [m
+backend/tests/test_phase4_1_emergency_sos.py:165: trailing whitespace.
+[32m+[m[41m    [m
+backend/tests/test_phase4_1_emergency_sos.py:175: trailing whitespace.
+[32m+[m[41m    [m
+backend/tests/test_phase4_1_emergency_sos.py:193: trailing whitespace.
+[32m+[m[41m    [m
+backend/tests/test_sync_idempotency.py:187: trailing whitespace.
+[32m+[m[41m    [m
+frontend/src/App.tsx:1957: trailing whitespace.
+[32m+[m[32m        {/* Main View Area:[m[41m [m
+frontend/src/App.tsx:3027: new blank line at EOF.
+frontend/src/components/map/Interactive3DMap.tsx:2956: new blank line at EOF.
+frontend/src/components/map/MapControls.tsx:1: trailing whitespace.
+[32m+[m[32mimport React from 'react';[m[41m[m
+frontend/src/components/map/MapControls.tsx:2: trailing whitespace.
+[32m+[m[32mimport {[m[41m[m
+frontend/src/components/map/MapControls.tsx:3: trailing whitespace.
+[32m+[m[32m  Layers,[m[41m[m
+frontend/src/components/map/MapControls.tsx:4: trailing whitespace.
+[32m+[m[32m  RotateCcw,[m[41m[m
+frontend/src/components/map/MapControls.tsx:5: trailing whitespace.
+[32m+[m[32m  ZoomIn,[m[41m[m
+frontend/src/components/map/MapControls.tsx:6: trailing whitespace.
+[32m+[m[32m  ZoomOut,[m[41m[m
+frontend/src/components/map/MapControls.tsx:7: trailing whitespace.
+[32m+[m[32m  Compass,[m[41m[m
+frontend/src/components/map/MapControls.tsx:8: trailing whitespace.
+[32m+[m[32m  Navigation,[m[41m[m
+frontend/src/components/map/MapControls.tsx:9: trailing whitespace.
+[32m+[m[32m  Scan,[m[41m[m
+frontend/src/components/map/MapControls.tsx:10: trailing whitespace.
+[32m+[m[32m  Loader2,[m[41m[m
+frontend/src/components/map/MapControls.tsx:11: trailing whitespace.
+[32m+[m[32m  Users,[m[41m[m
+frontend/src/components/map/MapControls.tsx:12: trailing whitespace.
+[32m+[m[32m  Maximize2,[m[41m[m
+frontend/src/components/map/MapControls.tsx:13: trailing whitespace.
+[32m+[m[32m  Crosshair,[m[41m[m
+frontend/src/components/map/MapControls.tsx:14: trailing whitespace.
+[32m+[m[32m} from 'lucide-react';[m[41m[m
+frontend/src/components/map/MapControls.tsx:15: trailing whitespace.
+[32m+[m[32mimport { translations } from '../../i18n/translations';[m[41m[m
+frontend/src/components/map/MapControls.tsx:16: trailing whitespace.
+[32m+[m[32mimport { Language, GeolocationStatus, UserLocation } from '../../types';[m[41m[m
+frontend/src/components/map/MapControls.tsx:17: trailing whitespace.
+[32m+[m[41m[m
+frontend/src/components/map/MapControls.tsx:18: trailing whitespace.
+[32m+[m[32minterface MapControlsProps {[m[41m[m
+frontend/src/components/map/MapControls.tsx:19: trailing whitespace.
+[32m+[m[32m  currentLanguage: Language;[m[41m[m
+frontend/src/components/map/MapControls.tsx:20: trailing whitespace.
+[32m+[m[32m  viewMode: '3D' | '2D';[m[41m[m
+frontend/src/components/map/MapControls.tsx:21: trailing whitespace.
+[32m+[m[32m  onToggleViewMode: () => void;[m[41m[m
+frontend/src/components/map/MapControls.tsx:22: trailing whitespace.
+[32m+[m[32m  onZoomIn: () => void;[m[41m[m
+frontend/src/components/map/MapControls.tsx:23: trailing whitespace.
+[32m+[m[32m  onZoomOut: () => void;[m[41m[m
+frontend/src/components/map/MapControls.tsx:24: trailing whitespace.
+[32m+[m[32m  onResetView: () => void;[m[41m[m
+frontend/src/components/map/MapControls.tsx:25: trailing whitespace.
+[32m+[m[32m  onRotate: () => void;[m[41m[m
+frontend/src/components/map/MapControls.tsx:26: trailing whitespace.
+[32m+[m[32m  geolocationStatus: GeolocationStatus;[m[41m[m
+frontend/src/components/map/MapControls.tsx:27: trailing whitespace.
+[32m+[m[32m  onRequestLocation: () => void;[m[41m[m
+frontend/src/components/map/MapControls.tsx:28: trailing whitespace.
+[32m+[m[32m  onOpenQrScanner: () => void;[m[41m[m
+frontend/src/components/map/MapControls.tsx:29: trailing whitespace.
+[32m+[m[32m  onOpenCrowdReport?: () => void;[m[41m[m
+frontend/src/components/map/MapControls.tsx:30: trailing whitespace.
+[32m+[m[32m  userLocation: UserLocation | null;[m[41m[m
+frontend/src/components/map/MapControls.tsx:31: trailing whitespace.
+[32m+[m[32m  isRouteActive?: boolean;[m[41m[m
+frontend/src/components/map/MapControls.tsx:32: trailing whitespace.
+[32m+[m[32m  onRouteOverview?: () => void;[m[41m[m
+frontend/src/components/map/MapControls.tsx:33: trailing whitespace.
+[32m+[m[32m  onReturnToLocation?: () => void;[m[41m[m
+frontend/src/components/map/MapControls.tsx:34: trailing whitespace.
+[32m+[m[32m}[m[41m[m
+frontend/src/components/map/MapControls.tsx:35: trailing whitespace.
+[32m+[m[41m[m
+frontend/src/components/map/MapControls.tsx:36: trailing whitespace.
+[32m+[m[32mexport const MapControls: React.FC<MapControlsProps> = ({[m[41m[m
+frontend/src/components/map/MapControls.tsx:37: trailing whitespace.
+[32m+[m[32m  currentLanguage,[m[41m[m
+frontend/src/components/map/MapControls.tsx:38: trailing whitespace.
+[32m+[m[32m  viewMode,[m[41m[m
+frontend/src/components/map/MapControls.tsx:39: trailing whitespace.
+[32m+[m[32m  onToggleViewMode,[m[41m[m
+frontend/src/components/map/MapControls.tsx:40: trailing whitespace.
+[32m+[m[32m  onZoomIn,[m[41m[m
+frontend/src/components/map/MapControls.tsx:41: trailing whitespace.
+[32m+[m[32m  onZoomOut,[m[41m[m
+frontend/src/components/map/MapControls.tsx:42: trailing whitespace.
+[32m+[m[32m  onResetView,[m[41m[m
+frontend/src/components/map/MapControls.tsx:43: trailing whitespace.
+[32m+[m[32m  onRotate,[m[41m[m
+frontend/src/components/map/MapControls.tsx:44: trailing whitespace.
+[32m+[m[32m  geolocationStatus,[m[41m[m
+frontend/src/components/map/MapControls.tsx:45: trailing whitespace.
+[32m+[m[32m  onRequestLocation,[m[41m[m
+frontend/src/components/map/MapControls.tsx:46: trailing whitespace.
+[32m+[m[32m  onOpenQrScanner,[m[41m[m
+frontend/src/components/map/MapControls.tsx:47: trailing whitespace.
+[32m+[m[32m  onOpenCrowdReport,[m[41m[m
+frontend/src/components/map/MapControls.tsx:48: trailing whitespace.
+[32m+[m[32m  userLocation,[m[41m[m
+frontend/src/components/map/MapControls.tsx:49: trailing whitespace.
+[32m+[m[32m  isRouteActive = false,[m[41m[m
+frontend/src/components/map/MapControls.tsx:50: trailing whitespace.
+[32m+[m[32m  onRouteOverview,[m[41m[m
+frontend/src/components/map/MapControls.tsx:51: trailing whitespace.
+[32m+[m[32m  onReturnToLocation,[m[41m[m
+frontend/src/components/map/MapControls.tsx:52: trailing whitespace.
+[32m+[m[32m}) => {[m[41m[m
+frontend/src/components/map/MapControls.tsx:53: trailing whitespace.
+[32m+[m[32m  const t = translations[currentLanguage];[m[41m[m
+frontend/src/components/map/MapControls.tsx:54: trailing whitespace.
+[32m+[m[41m[m
+frontend/src/components/map/MapControls.tsx:55: trailing whitespace.
+[32m+[m[32m  const getGpsButtonClasses = () => {[m[41m[m
+frontend/src/components/map/MapControls.tsx:56: trailing whitespace.
+[32m+[m[32m    if (geolocationStatus === 'active') {[m[41m[m
+frontend/src/components/map/MapControls.tsx:57: trailing whitespace.
+[32m+[m[32m      return 'bg-blue-600 text-white shadow-lg ring-2 ring-blue-400 ring-offset-2 ring-offset-slate-900';[m[41m[m
+frontend/src/components/map/MapControls.tsx:58: trailing whitespace.
+[32m+[m[32m    }[m[41m[m
+frontend/src/components/map/MapControls.tsx:59: trailing whitespace.
+[32m+[m[32m    if (geolocationStatus === 'requesting') {[m[41m[m
+frontend/src/components/map/MapControls.tsx:60: trailing whitespace.
+[32m+[m[32m      return 'bg-blue-900/60 text-blue-300 animate-pulse';[m[41m[m
+frontend/src/components/map/MapControls.tsx:61: trailing whitespace.
+[32m+[m[32m    }[m[41m[m
+frontend/src/components/map/MapControls.tsx:62: trailing whitespace.
+[32m+[m[32m    if (geolocationStatus === 'denied' || geolocationStatus === 'unavailable') {[m[41m[m
+frontend/src/components/map/MapControls.tsx:63: trailing whitespace.
+[32m+[m[32m      return 'text-amber-400 hover:text-amber-300 hover:bg-slate-800';[m[41m[m
+frontend/src/components/map/MapControls.tsx:64: trailing whitespace.
+[32m+[m[32m    }[m[41m[m
+frontend/src/components/map/MapControls.tsx:65: trailing whitespace.
+[32m+[m[32m    return 'text-slate-300 hover:text-white hover:bg-slate-800';[m[41m[m
+frontend/src/components/map/MapControls.tsx:66: trailing whitespace.
+[32m+[m[32m  };[m[41m[m
+frontend/src/components/map/MapControls.tsx:67: trailing whitespace.
+[32m+[m[41m[m
+frontend/src/components/map/MapControls.tsx:68: trailing whitespace.
+[32m+[m[32m  const getGpsTitle = () => {[m[41m[m
+frontend/src/components/map/MapControls.tsx:69: trailing whitespace.
+[32m+[m[32m    if (geolocationStatus === 'active' && userLocation) {[m[41m[m
+frontend/src/components/map/MapControls.tsx:70: trailing whitespace.
+[32m+[m[32m      return `${t.gps.liveLocation} (±${Math.round(userLocation.accuracy || 0)}m)`;[m[41m[m
+frontend/src/components/map/MapControls.tsx:71: trailing whitespace.
+[32m+[m[32m    }[m[41m[m
+frontend/src/components/map/MapControls.tsx:72: trailing whitespace.
+[32m+[m[32m    if (geolocationStatus === 'requesting') {[m[41m[m
+frontend/src/components/map/MapControls.tsx:73: trailing whitespace.
+[32m+[m[32m      return t.gps.locating;[m[41m[m
+frontend/src/components/map/MapControls.tsx:74: trailing whitespace.
+[32m+[m[32m    }[m[41m[m
+frontend/src/components/map/MapControls.tsx:75: trailing whitespace.
+[32m+[m[32m    if (geolocationStatus === 'denied') {[m[41m[m
+frontend/src/components/map/MapControls.tsx:76: trailing whitespace.
+[32m+[m[32m      return t.gps.permissionDenied;[m[41m[m
+frontend/src/components/map/MapControls.tsx:77: trailing whitespace.
+[32m+[m[32m    }[m[41m[m
+frontend/src/components/map/MapControls.tsx:78: trailing whitespace.
+[32m+[m[32m    return t.gps.locateMe;[m[41m[m
+frontend/src/components/map/MapControls.tsx:79: trailing whitespace.
+[32m+[m[32m  };[m[41m[m
+frontend/src/components/map/MapControls.tsx:80: trailing whitespace.
+[32m+[m[41m[m
+frontend/src/components/map/MapControls.tsx:81: trailing whitespace.
+[32m+[m[32m  const mobileLabels = {[m[41m[m
+frontend/src/components/map/MapControls.tsx:82: trailing whitespace.
+[32m+[m[32m    en: { myLocation: 'Location', layers: 'Layers', compass: 'Compass' },[m[41m[m
+frontend/src/components/map/MapControls.tsx:83: trailing whitespace.
+[32m+[m[32m    te: { myLocation: 'లొకేషన్', layers: 'లేయర్స్', compass: 'దిక్సూచి' },[m[41m[m
+frontend/src/components/map/MapControls.tsx:84: trailing whitespace.
+[32m+[m[32m    hi: { myLocation: 'लोकेशन', layers: 'परतें', compass: 'दिशा' },[m[41m[m
+frontend/src/components/map/MapControls.tsx:85: trailing whitespace.
+[32m+[m[32m  }[currentLanguage] || { myLocation: 'Location', layers: 'Layers', compass: 'Compass' };[m[41m[m
+frontend/src/components/map/MapControls.tsx:86: trailing whitespace.
+[32m+[m[41m[m
+frontend/src/components/map/MapControls.tsx:87: trailing whitespace.
+[32m+[m[32m  return ([m[41m[m
+frontend/src/components/map/MapControls.tsx:88: trailing whitespace.
+[32m+[m[32m    <>[m[41m[m
+frontend/src/components/map/MapControls.tsx:89: trailing whitespace.
+[32m+[m[32m      {/* Streamlined 3-Button Mobile Right Toolbar (< md) */}[m[41m[m
+frontend/src/components/map/MapControls.tsx:90: trailing whitespace.
+[32m+[m[32m      <div className="flex md:hidden absolute right-3 top-4 z-20 flex-col space-y-2.5">[m[41m[m
+frontend/src/components/map/MapControls.tsx:91: trailing whitespace.
+[32m+[m[32m        {/* 1. My Location Control */}[m[41m[m
+frontend/src/components/map/MapControls.tsx:92: trailing whitespace.
+[32m+[m[32m        <button[m[41m[m
+frontend/src/components/map/MapControls.tsx:93: trailing whitespace.
+[32m+[m[32m          onClick={userLocation && onReturnToLocation ? onReturnToLocation : onRequestLocation}[m[41m[m
+frontend/src/components/map/MapControls.tsx:94: trailing whitespace.
+[32m+[m[32m          className={`w-11 h-11 rounded-2xl bg-slate-900/95 border border-slate-700 shadow-2xl flex flex-col items-center justify-center active:scale-95 transition-all ${[m[41m[m
+frontend/src/components/map/MapControls.tsx:95: trailing whitespace.
+[32m+[m[32m            geolocationStatus === 'active'[m[41m[m
+frontend/src/components/map/MapControls.tsx:96: trailing whitespace.
+[32m+[m[32m              ? 'text-blue-400 ring-2 ring-blue-500/40 border-blue-500/60'[m[41m[m
+frontend/src/components/map/MapControls.tsx:97: trailing whitespace.
+[32m+[m[32m              : 'text-slate-300 hover:text-white'[m[41m[m
+frontend/src/components/map/MapControls.tsx:98: trailing whitespace.
+[32m+[m[32m          }`}[m[41m[m
+frontend/src/components/map/MapControls.tsx:99: trailing whitespace.
+[32m+[m[32m          title={mobileLabels.myLocation}[m[41m[m
+frontend/src/components/map/MapControls.tsx:100: trailing whitespace.
+[32m+[m[32m          aria-label={mobileLabels.myLocation}[m[41m[m
+frontend/src/components/map/MapControls.tsx:101: trailing whitespace.
+[32m+[m[32m        >[m[41m[m
+frontend/src/components/map/MapControls.tsx:102: trailing whitespace.
+[32m+[m[32m          <Crosshair className={`w-4 h-4 ${geolocationStatus === 'active' ? 'text-blue-400' : ''}`} />[m[41m[m
+frontend/src/components/map/MapControls.tsx:103: trailing whitespace.
+[32m+[m[32m          <span className="text-[7.5px] font-black uppercase tracking-tight text-slate-300 mt-0.5">[m[41m[m
+frontend/src/components/map/MapControls.tsx:104: trailing whitespace.
+[32m+[m[32m            {mobileLabels.myLocation}[m[41m[m
+frontend/src/components/map/MapControls.tsx:105: trailing whitespace.
+[32m+[m[32m          </span>[m[41m[m
+frontend/src/components/map/MapControls.tsx:106: trailing whitespace.
+[32m+[m[32m        </button>[m[41m[m
+frontend/src/components/map/MapControls.tsx:107: trailing whitespace.
+[32m+[m[41m[m
+frontend/src/components/map/MapControls.tsx:108: trailing whitespace.
+[32m+[m[32m        {/* 2. Map Layers Control */}[m[41m[m
+frontend/src/components/map/MapControls.tsx:109: trailing whitespace.
+[32m+[m[32m        <button[m[41m[m
+frontend/src/components/map/MapControls.tsx:110: trailing whitespace.
+[32m+[m[32m          onClick={onToggleViewMode}[m[41m[m
+frontend/src/components/map/MapControls.tsx:111: trailing whitespace.
+[32m+[m[32m          className={`w-11 h-11 rounded-2xl bg-slate-900/95 border border-slate-700 shadow-2xl flex flex-col items-center justify-center active:scale-95 transition-all ${[m[41m[m
+frontend/src/components/map/MapControls.tsx:112: trailing whitespace.
+[32m+[m[32m            viewMode === '3D' ? 'text-amber-400 ring-2 ring-amber-500/30' : 'text-slate-300 hover:text-white'[m[41m[m
+frontend/src/components/map/MapControls.tsx:113: trailing whitespace.
+[32m+[m[32m          }`}[m[41m[m
+frontend/src/components/map/MapControls.tsx:114: trailing whitespace.
+[32m+[m[32m          title={viewMode === '3D' ? t.map.mode3D : t.map.mode2D}[m[41m[m
+frontend/src/components/map/MapControls.tsx:115: trailing whitespace.
+[32m+[m[32m          aria-label="Toggle Map Layers"[m[41m[m
+frontend/src/components/map/MapControls.tsx:116: trailing whitespace.
+[32m+[m[32m        >[m[41m[m
+frontend/src/components/map/MapControls.tsx:117: trailing whitespace.
+[32m+[m[32m          <Layers className="w-4 h-4" />[m[41m[m
+frontend/src/components/map/MapControls.tsx:118: trailing whitespace.
+[32m+[m[32m          <span className="text-[7.5px] font-black uppercase tracking-tight text-slate-300 mt-0.5">[m[41m[m
+frontend/src/components/map/MapControls.tsx:119: trailing whitespace.
+[32m+[m[32m            {mobileLabels.layers}[m[41m[m
+frontend/src/components/map/MapControls.tsx:120: trailing whitespace.
+[32m+[m[32m          </span>[m[41m[m
+frontend/src/components/map/MapControls.tsx:121: trailing whitespace.
+[32m+[m[32m        </button>[m[41m[m
+frontend/src/components/map/MapControls.tsx:122: trailing whitespace.
+[32m+[m[41m[m
+frontend/src/components/map/MapControls.tsx:123: trailing whitespace.
+[32m+[m[32m        {/* 3. Compass Control */}[m[41m[m
+frontend/src/components/map/MapControls.tsx:124: trailing whitespace.
+[32m+[m[32m        <button[m[41m[m
+frontend/src/components/map/MapControls.tsx:125: trailing whitespace.
+[32m+[m[32m          onClick={onResetView}[m[41m[m
+frontend/src/components/map/MapControls.tsx:126: trailing whitespace.
+[32m+[m[32m          className="w-11 h-11 rounded-2xl bg-slate-900/95 text-rose-400 hover:text-rose-300 border border-slate-700 shadow-2xl flex flex-col items-center justify-center active:scale-95 transition-all"[m[41m[m
+frontend/src/components/map/MapControls.tsx:127: trailing whitespace.
+[32m+[m[32m          title={mobileLabels.compass}[m[41m[m
+frontend/src/components/map/MapControls.tsx:128: trailing whitespace.
+[32m+[m[32m          aria-label={mobileLabels.compass}[m[41m[m
+frontend/src/components/map/MapControls.tsx:129: trailing whitespace.
+[32m+[m[32m        >[m[41m[m
+frontend/src/components/map/MapControls.tsx:130: trailing whitespace.
+[32m+[m[32m          <Compass className="w-4 h-4" />[m[41m[m
+frontend/src/components/map/MapControls.tsx:131: trailing whitespace.
+[32m+[m[32m          <span className="text-[7.5px] font-black uppercase tracking-tight text-slate-300 mt-0.5">[m[41m[m
+frontend/src/components/map/MapControls.tsx:132: trailing whitespace.
+[32m+[m[32m            {mobileLabels.compass}[m[41m[m
+frontend/src/components/map/MapControls.tsx:133: trailing whitespace.
+[32m+[m[32m          </span>[m[41m[m
+frontend/src/components/map/MapControls.tsx:134: trailing whitespace.
+[32m+[m[32m        </button>[m[41m[m
+frontend/src/components/map/MapControls.tsx:135: trailing whitespace.
+[32m+[m[32m      </div>[m[41m[m
+frontend/src/components/map/MapControls.tsx:136: trailing whitespace.
+[32m+[m[41m[m
+frontend/src/components/map/MapControls.tsx:137: trailing whitespace.
+[32m+[m[32m      {/* Full Desktop Toolbar (>= md) - 100% Preserved */}[m[41m[m
+frontend/src/components/map/MapControls.tsx:138: trailing whitespace.
+[32m+[m[32m      <div className="hidden md:flex absolute right-4 top-20 z-20 flex-col space-y-2 bg-slate-900/90 backdrop-blur-md p-1.5 rounded-xl border border-slate-700 shadow-2xl">[m[41m[m
+frontend/src/components/map/MapControls.tsx:139: trailing whitespace.
+[32m+[m[32m      {/* Real Device GPS Locate Button */}[m[41m[m
+frontend/src/components/map/MapControls.tsx:140: trailing whitespace.
+[32m+[m[32m      <button[m[41m[m
+frontend/src/components/map/MapControls.tsx:141: trailing whitespace.
+[32m+[m[32m        onClick={onRequestLocation}[m[41m[m
+frontend/src/components/map/MapControls.tsx:142: trailing whitespace.
+[32m+[m[32m        className={`p-2.5 rounded-lg flex items-center justify-center transition-all ${getGpsButtonClasses()}`}[m[41m[m
+frontend/src/components/map/MapControls.tsx:143: trailing whitespace.
+[32m+[m[32m        title={getGpsTitle()}[m[41m[m
+frontend/src/components/map/MapControls.tsx:144: trailing whitespace.
+[32m+[m[32m        aria-label="Locate Me via GPS"[m[41m[m
+frontend/src/components/map/MapControls.tsx:145: trailing whitespace.
+[32m+[m[32m      >[m[41m[m
+frontend/src/components/map/MapControls.tsx:146: trailing whitespace.
+[32m+[m[32m        {geolocationStatus === 'requesting' ? ([m[41m[m
+frontend/src/components/map/MapControls.tsx:147: trailing whitespace.
+[32m+[m[32m          <Loader2 className="w-5 h-5 animate-spin" />[m[41m[m
+frontend/src/components/map/MapControls.tsx:148: trailing whitespace.
+[32m+[m[32m        ) : ([m[41m[m
+frontend/src/components/map/MapControls.tsx:149: trailing whitespace.
+[32m+[m[32m          <Navigation className={`w-5 h-5 ${geolocationStatus === 'active' ? 'fill-current' : ''}`} />[m[41m[m
+frontend/src/components/map/MapControls.tsx:150: trailing whitespace.
+[32m+[m[32m        )}[m[41m[m
+frontend/src/components/map/MapControls.tsx:151: trailing whitespace.
+[32m+[m[32m      </button>[m[41m[m
+frontend/src/components/map/MapControls.tsx:152: trailing whitespace.
+[32m+[m[41m[m
+frontend/src/components/map/MapControls.tsx:153: trailing whitespace.
+[32m+[m[32m      {/* QR Code Scanner Button */}[m[41m[m
+frontend/src/components/map/MapControls.tsx:154: trailing whitespace.
+[32m+[m[32m      <button[m[41m[m
+frontend/src/components/map/MapControls.tsx:155: trailing whitespace.
+[32m+[m[32m        onClick={onOpenQrScanner}[m[41m[m
+frontend/src/components/map/MapControls.tsx:156: trailing whitespace.
+[32m+[m[32m        className="p-2.5 rounded-lg text-slate-300 hover:text-emerald-400 hover:bg-slate-800 transition-colors flex items-center justify-center"[m[41m[m
+frontend/src/components/map/MapControls.tsx:157: trailing whitespace.
+[32m+[m[32m        title={t.qr.scanQrBtn}[m[41m[m
+frontend/src/components/map/MapControls.tsx:158: trailing whitespace.
+[32m+[m[32m        aria-label="Scan QR Code"[m[41m[m
+frontend/src/components/map/MapControls.tsx:159: trailing whitespace.
+[32m+[m[32m      >[m[41m[m
+frontend/src/components/map/MapControls.tsx:160: trailing whitespace.
+[32m+[m[32m        <Scan className="w-5 h-5" />[m[41m[m
+frontend/src/components/map/MapControls.tsx:161: trailing whitespace.
+[32m+[m[32m      </button>[m[41m[m
+frontend/src/components/map/MapControls.tsx:162: trailing whitespace.
+[32m+[m[41m[m
+frontend/src/components/map/MapControls.tsx:163: trailing whitespace.
+[32m+[m[32m      {/* Live Crowd Density Report Button */}[m[41m[m
+frontend/src/components/map/MapControls.tsx:164: trailing whitespace.
+[32m+[m[32m      {onOpenCrowdReport && ([m[41m[m
+frontend/src/components/map/MapControls.tsx:165: trailing whitespace.
+[32m+[m[32m        <button[m[41m[m
+frontend/src/components/map/MapControls.tsx:166: trailing whitespace.
+[32m+[m[32m          onClick={onOpenCrowdReport}[m[41m[m
+frontend/src/components/map/MapControls.tsx:167: trailing whitespace.
+[32m+[m[32m          className="p-2.5 rounded-lg text-slate-300 hover:text-amber-400 hover:bg-slate-800 transition-colors flex items-center justify-center"[m[41m[m
+frontend/src/components/map/MapControls.tsx:168: trailing whitespace.
+[32m+[m[32m          title="Report Live Crowd Density"[m[41m[m
+frontend/src/components/map/MapControls.tsx:169: trailing whitespace.
+[32m+[m[32m          aria-label="Report Live Crowd Density"[m[41m[m
+frontend/src/components/map/MapControls.tsx:170: trailing whitespace.
+[32m+[m[32m        >[m[41m[m
+frontend/src/components/map/MapControls.tsx:171: trailing whitespace.
+[32m+[m[32m          <Users className="w-5 h-5" />[m[41m[m
+frontend/src/components/map/MapControls.tsx:172: trailing whitespace.
+[32m+[m[32m        </button>[m[41m[m
+frontend/src/components/map/MapControls.tsx:173: trailing whitespace.
+[32m+[m[32m      )}[m[41m[m
+frontend/src/components/map/MapControls.tsx:174: trailing whitespace.
+[32m+[m[41m[m
+frontend/src/components/map/MapControls.tsx:175: trailing whitespace.
+[32m+[m[32m      <div className="w-full h-px bg-slate-800 my-0.5"></div>[m[41m[m
+frontend/src/components/map/MapControls.tsx:176: trailing whitespace.
+[32m+[m[41m[m
+frontend/src/components/map/MapControls.tsx:177: trailing whitespace.
+[32m+[m[32m      {/* 2D / 3D Mode Toggle */}[m[41m[m
+frontend/src/components/map/MapControls.tsx:178: trailing whitespace.
+[32m+[m[32m      <button[m[41m[m
+frontend/src/components/map/MapControls.tsx:179: trailing whitespace.
+[32m+[m[32m        onClick={onToggleViewMode}[m[41m[m
+frontend/src/components/map/MapControls.tsx:180: trailing whitespace.
+[32m+[m[32m        className={`p-2.5 rounded-lg flex items-center justify-center transition-all ${[m[41m[m
+frontend/src/components/map/MapControls.tsx:181: trailing whitespace.
+[32m+[m[32m          viewMode === '3D'[m[41m[m
+frontend/src/components/map/MapControls.tsx:182: trailing whitespace.
+[32m+[m[32m            ? 'bg-amber-500 text-slate-950 font-bold shadow-md'[m[41m[m
+frontend/src/components/map/MapControls.tsx:183: trailing whitespace.
+[32m+[m[32m            : 'text-slate-300 hover:text-white hover:bg-slate-800'[m[41m[m
+frontend/src/components/map/MapControls.tsx:184: trailing whitespace.
+[32m+[m[32m        }`}[m[41m[m
+frontend/src/components/map/MapControls.tsx:185: trailing whitespace.
+[32m+[m[32m        title={viewMode === '3D' ? t.map.mode3D : t.map.mode2D}[m[41m[m
+frontend/src/components/map/MapControls.tsx:186: trailing whitespace.
+[32m+[m[32m        aria-label="Toggle 3D View Mode"[m[41m[m
+frontend/src/components/map/MapControls.tsx:187: trailing whitespace.
+[32m+[m[32m      >[m[41m[m
+frontend/src/components/map/MapControls.tsx:188: trailing whitespace.
+[32m+[m[32m        <Layers className="w-5 h-5" />[m[41m[m
+frontend/src/components/map/MapControls.tsx:189: trailing whitespace.
+[32m+[m[32m      </button>[m[41m[m
+frontend/src/components/map/MapControls.tsx:190: trailing whitespace.
+[32m+[m[41m[m
+frontend/src/components/map/MapControls.tsx:191: trailing whitespace.
+[32m+[m[32m      {/* Compass / Rotate */}[m[41m[m
+frontend/src/components/map/MapControls.tsx:192: trailing whitespace.
+[32m+[m[32m      <button[m[41m[m
+frontend/src/components/map/MapControls.tsx:193: trailing whitespace.
+[32m+[m[32m        onClick={onRotate}[m[41m[m
+frontend/src/components/map/MapControls.tsx:194: trailing whitespace.
+[32m+[m[32m        className="p-2.5 rounded-lg text-slate-300 hover:text-amber-400 hover:bg-slate-800 transition-colors flex items-center justify-center"[m[41m[m
+frontend/src/components/map/MapControls.tsx:195: trailing whitespace.
+[32m+[m[32m        title="Rotate 3D Camera 45°"[m[41m[m
+frontend/src/components/map/MapControls.tsx:196: trailing whitespace.
+[32m+[m[32m        aria-label="Rotate Camera"[m[41m[m
+frontend/src/components/map/MapControls.tsx:197: trailing whitespace.
+[32m+[m[32m      >[m[41m[m
+frontend/src/components/map/MapControls.tsx:198: trailing whitespace.
+[32m+[m[32m        <Compass className="w-5 h-5" />[m[41m[m
+frontend/src/components/map/MapControls.tsx:199: trailing whitespace.
+[32m+[m[32m      </button>[m[41m[m
+frontend/src/components/map/MapControls.tsx:200: trailing whitespace.
+[32m+[m[41m[m
+frontend/src/components/map/MapControls.tsx:201: trailing whitespace.
+[32m+[m[32m      {/* Zoom In */}[m[41m[m
+frontend/src/components/map/MapControls.tsx:202: trailing whitespace.
+[32m+[m[32m      <button[m[41m[m
+frontend/src/components/map/MapControls.tsx:203: trailing whitespace.
+[32m+[m[32m        onClick={onZoomIn}[m[41m[m
+frontend/src/components/map/MapControls.tsx:204: trailing whitespace.
+[32m+[m[32m        className="p-2.5 rounded-lg text-slate-300 hover:text-white hover:bg-slate-800 transition-colors flex items-center justify-center"[m[41m[m
+frontend/src/components/map/MapControls.tsx:205: trailing whitespace.
+[32m+[m[32m        title={t.map.zoomIn}[m[41m[m
+frontend/src/components/map/MapControls.tsx:206: trailing whitespace.
+[32m+[m[32m        aria-label="Zoom In"[m[41m[m
+frontend/src/components/map/MapControls.tsx:207: trailing whitespace.
+[32m+[m[32m      >[m[41m[m
+frontend/src/components/map/MapControls.tsx:208: trailing whitespace.
+[32m+[m[32m        <ZoomIn className="w-5 h-5" />[m[41m[m
+frontend/src/components/map/MapControls.tsx:209: trailing whitespace.
+[32m+[m[32m      </button>[m[41m[m
+frontend/src/components/map/MapControls.tsx:210: trailing whitespace.
+[32m+[m[41m[m
+frontend/src/components/map/MapControls.tsx:211: trailing whitespace.
+[32m+[m[32m      {/* Zoom Out */}[m[41m[m
+frontend/src/components/map/MapControls.tsx:212: trailing whitespace.
+[32m+[m[32m      <button[m[41m[m
+frontend/src/components/map/MapControls.tsx:213: trailing whitespace.
+[32m+[m[32m        onClick={onZoomOut}[m[41m[m
+frontend/src/components/map/MapControls.tsx:214: trailing whitespace.
+[32m+[m[32m        className="p-2.5 rounded-lg text-slate-300 hover:text-white hover:bg-slate-800 transition-colors flex items-center justify-center"[m[41m[m
+frontend/src/components/map/MapControls.tsx:215: trailing whitespace.
+[32m+[m[32m        title={t.map.zoomOut}[m[41m[m
+frontend/src/components/map/MapControls.tsx:216: trailing whitespace.
+[32m+[m[32m        aria-label="Zoom Out"[m[41m[m
+frontend/src/components/map/MapControls.tsx:217: trailing whitespace.
+[32m+[m[32m      >[m[41m[m
+frontend/src/components/map/MapControls.tsx:218: trailing whitespace.
+[32m+[m[32m        <ZoomOut className="w-5 h-5" />[m[41m[m
+frontend/src/components/map/MapControls.tsx:219: trailing whitespace.
+[32m+[m[32m      </button>[m[41m[m
+frontend/src/components/map/MapControls.tsx:220: trailing whitespace.
+[32m+[m[41m[m
+frontend/src/components/map/MapControls.tsx:221: trailing whitespace.
+[32m+[m[32m      {/* Reset View */}[m[41m[m
+frontend/src/components/map/MapControls.tsx:222: trailing whitespace.
+[32m+[m[32m      <button[m[41m[m
+frontend/src/components/map/MapControls.tsx:223: trailing whitespace.
+[32m+[m[32m        onClick={onResetView}[m[41m[m
+frontend/src/components/map/MapControls.tsx:224: trailing whitespace.
+[32m+[m[32m        className="p-2.5 rounded-lg text-slate-300 hover:text-amber-400 hover:bg-slate-800 transition-colors flex items-center justify-center"[m[41m[m
+frontend/src/components/map/MapControls.tsx:225: trailing whitespace.
+[32m+[m[32m        title={t.map.resetView}[m[41m[m
+frontend/src/components/map/MapControls.tsx:226: trailing whitespace.
+[32m+[m[32m        aria-label="Reset View"[m[41m[m
+frontend/src/components/map/MapControls.tsx:227: trailing whitespace.
+[32m+[m[32m      >[m[41m[m
+frontend/src/components/map/MapControls.tsx:228: trailing whitespace.
+[32m+[m[32m        <RotateCcw className="w-5 h-5" />[m[41m[m
+frontend/src/components/map/MapControls.tsx:229: trailing whitespace.
+[32m+[m[32m      </button>[m[41m[m
+frontend/src/components/map/MapControls.tsx:230: trailing whitespace.
+[32m+[m[41m[m
+frontend/src/components/map/MapControls.tsx:231: trailing whitespace.
+[32m+[m[32m      {/* Route Overview Button (When active route exists) */}[m[41m[m
+frontend/src/components/map/MapControls.tsx:232: trailing whitespace.
+[32m+[m[32m      {isRouteActive && onRouteOverview && ([m[41m[m
+frontend/src/components/map/MapControls.tsx:233: trailing whitespace.
+[32m+[m[32m        <button[m[41m[m
+frontend/src/components/map/MapControls.tsx:234: trailing whitespace.
+[32m+[m[32m          onClick={onRouteOverview}[m[41m[m
+frontend/src/components/map/MapControls.tsx:235: trailing whitespace.
+[32m+[m[32m          className="p-2.5 rounded-lg bg-blue-600/90 text-white hover:bg-blue-500 shadow-md transition-all flex items-center justify-center animate-pulse"[m[41m[m
+frontend/src/components/map/MapControls.tsx:236: trailing whitespace.
+[32m+[m[32m          title="Overview Full Route"[m[41m[m
+frontend/src/components/map/MapControls.tsx:237: trailing whitespace.
+[32m+[m[32m          aria-label="Route Overview"[m[41m[m
+frontend/src/components/map/MapControls.tsx:238: trailing whitespace.
+[32m+[m[32m        >[m[41m[m
+frontend/src/components/map/MapControls.tsx:239: trailing whitespace.
+[32m+[m[32m          <Maximize2 className="w-5 h-5" />[m[41m[m
+frontend/src/components/map/MapControls.tsx:240: trailing whitespace.
+[32m+[m[32m        </button>[m[41m[m
+frontend/src/components/map/MapControls.tsx:241: trailing whitespace.
+[32m+[m[32m      )}[m[41m[m
+frontend/src/components/map/MapControls.tsx:242: trailing whitespace.
+[32m+[m[41m[m
+frontend/src/components/map/MapControls.tsx:243: trailing whitespace.
+[32m+[m[32m      {/* Return to My Location (When user location is available) */}[m[41m[m
+frontend/src/components/map/MapControls.tsx:244: trailing whitespace.
+[32m+[m[32m      {userLocation && onReturnToLocation && ([m[41m[m
+frontend/src/components/map/MapControls.tsx:245: trailing whitespace.
+[32m+[m[32m        <button[m[41m[m
+frontend/src/components/map/MapControls.tsx:246: trailing whitespace.
+[32m+[m[32m          onClick={onReturnToLocation}[m[41m[m
+frontend/src/components/map/MapControls.tsx:247: trailing whitespace.
+[32m+[m[32m          className="p-2.5 rounded-lg text-slate-300 hover:text-blue-400 hover:bg-slate-800 transition-colors flex items-center justify-center"[m[41m[m
+frontend/src/components/map/MapControls.tsx:248: trailing whitespace.
+[32m+[m[32m          title="Center on My Location"[m[41m[m
+frontend/src/components/map/MapControls.tsx:249: trailing whitespace.
+[32m+[m[32m          aria-label="Center on My Location"[m[41m[m
+frontend/src/components/map/MapControls.tsx:250: trailing whitespace.
+[32m+[m[32m        >[m[41m[m
+frontend/src/components/map/MapControls.tsx:251: trailing whitespace.
+[32m+[m[32m          <Crosshair className="w-5 h-5" />[m[41m[m
+frontend/src/components/map/MapControls.tsx:252: trailing whitespace.
+[32m+[m[32m        </button>[m[41m[m
+frontend/src/components/map/MapControls.tsx:253: trailing whitespace.
+[32m+[m[32m      )}[m[41m[m
+frontend/src/components/map/MapControls.tsx:254: trailing whitespace.
+[32m+[m[32m    </div>[m[41m[m
+frontend/src/components/map/MapControls.tsx:255: trailing whitespace.
+[32m+[m[32m    </>[m[41m[m
+frontend/src/components/map/MapControls.tsx:256: trailing whitespace.
+[32m+[m[32m  );[m[41m[m
+frontend/src/components/map/MapControls.tsx:257: trailing whitespace.
+[32m+[m[32m};[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:1: trailing whitespace.
+[32m+[m[32mimport React, { useState, useMemo } from 'react';[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:2: trailing whitespace.
+[32m+[m[32mimport { Language, NavigationRoute, UserLocation } from '../../types';[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:3: trailing whitespace.
+[32m+[m[32mimport { translations } from '../../i18n/translations';[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:4: trailing whitespace.
+[32m+[m[32mimport {[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:5: trailing whitespace.
+[32m+[m[32m  getNavigationProgress,[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:6: trailing whitespace.
+[32m+[m[32m  DOCUMENTED_WALKING_SPEED_MPS,[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:7: trailing whitespace.
+[32m+[m[32m} from '../../services/routingService';[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:8: trailing whitespace.
+[32m+[m[32mimport {[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:9: trailing whitespace.
+[32m+[m[32m  X,[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:10: trailing whitespace.
+[32m+[m[32m  MapPin,[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:11: trailing whitespace.
+[32m+[m[32m  ChevronDown,[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:12: trailing whitespace.
+[32m+[m[32m  ChevronUp,[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:13: trailing whitespace.
+[32m+[m[32m  CheckCircle2,[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:14: trailing whitespace.
+[32m+[m[32m  CornerUpRight,[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:15: trailing whitespace.
+[32m+[m[32m  CornerUpLeft,[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:16: trailing whitespace.
+[32m+[m[32m  ArrowUp,[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:17: trailing whitespace.
+[32m+[m[32m  ArrowUpRight,[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:18: trailing whitespace.
+[32m+[m[32m  ArrowUpLeft,[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:19: trailing whitespace.
+[32m+[m[32m  Maximize2,[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:20: trailing whitespace.
+[32m+[m[32m  Crosshair,[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:21: trailing whitespace.
+[32m+[m[32m  AlertTriangle,[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:22: trailing whitespace.
+[32m+[m[32m  RefreshCw,[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:23: trailing whitespace.
+[32m+[m[32m  List,[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:24: trailing whitespace.
+[32m+[m[32m} from 'lucide-react';[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:25: trailing whitespace.
+[32m+[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:26: trailing whitespace.
+[32m+[m[32minterface NavigationPanelProps {[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:27: trailing whitespace.
+[32m+[m[32m  currentLanguage: Language;[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:28: trailing whitespace.
+[32m+[m[32m  route: NavigationRoute;[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:29: trailing whitespace.
+[32m+[m[32m  userLocation: UserLocation | null;[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:30: trailing whitespace.
+[32m+[m[32m  onExitNavigation: () => void;[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:31: trailing whitespace.
+[32m+[m[32m  onChangeOrigin: () => void;[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:32: trailing whitespace.
+[32m+[m[32m  isOutsideGeofence?: boolean;[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:33: trailing whitespace.
+[32m+[m[32m  offsiteDistanceKm?: number | null;[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:34: trailing whitespace.
+[32m+[m[32m  onRouteOverview?: () => void;[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:35: trailing whitespace.
+[32m+[m[32m  onRecenterOnUser?: () => void;[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:36: trailing whitespace.
+[32m+[m[32m  isFollowingUser?: boolean;[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:37: trailing whitespace.
+[32m+[m[32m  isOffRoute?: boolean;[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:38: trailing whitespace.
+[32m+[m[32m  offRouteDistanceMeters?: number;[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:39: trailing whitespace.
+[32m+[m[32m  onRecalculateRoute?: () => void;[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:40: trailing whitespace.
+[32m+[m[32m}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:41: trailing whitespace.
+[32m+[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:42: trailing whitespace.
+[32m+[m[32mexport const NavigationPanel: React.FC<NavigationPanelProps> = ({[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:43: trailing whitespace.
+[32m+[m[32m  currentLanguage,[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:44: trailing whitespace.
+[32m+[m[32m  route,[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:45: trailing whitespace.
+[32m+[m[32m  userLocation,[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:46: trailing whitespace.
+[32m+[m[32m  onExitNavigation,[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:47: trailing whitespace.
+[32m+[m[32m  onChangeOrigin,[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:48: trailing whitespace.
+[32m+[m[32m  isOutsideGeofence,[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:49: trailing whitespace.
+[32m+[m[32m  offsiteDistanceKm,[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:50: trailing whitespace.
+[32m+[m[32m  onRouteOverview,[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:51: trailing whitespace.
+[32m+[m[32m  onRecenterOnUser,[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:52: trailing whitespace.
+[32m+[m[32m  isFollowingUser = true,[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:53: trailing whitespace.
+[32m+[m[32m  isOffRoute = false,[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:54: trailing whitespace.
+[32m+[m[32m  offRouteDistanceMeters = 0,[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:55: trailing whitespace.
+[32m+[m[32m  onRecalculateRoute,[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:56: trailing whitespace.
+[32m+[m[32m}) => {[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:57: trailing whitespace.
+[32m+[m[32m  const t = translations[currentLanguage];[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:58: trailing whitespace.
+[32m+[m[32m  const [isStepsExpanded, setIsStepsExpanded] = useState<boolean>(false);[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:59: trailing whitespace.
+[32m+[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:60: trailing whitespace.
+[32m+[m[32m  // Compute real-time navigation progress along active route[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:61: trailing whitespace.
+[32m+[m[32m  const progress = useMemo(() => {[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:62: trailing whitespace.
+[32m+[m[32m    if (!userLocation) return null;[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:63: trailing whitespace.
+[32m+[m[32m    return getNavigationProgress(userLocation, route, DOCUMENTED_WALKING_SPEED_MPS);[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:64: trailing whitespace.
+[32m+[m[32m  }, [userLocation, route]);[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:65: trailing whitespace.
+[32m+[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:66: trailing whitespace.
+[32m+[m[32m  const effectiveRemainingDist = progress[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:67: trailing whitespace.
+[32m+[m[32m    ? progress.remainingDistanceMeters[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:68: trailing whitespace.
+[32m+[m[32m    : route.totalDistanceMeters;[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:69: trailing whitespace.
+[32m+[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:70: trailing whitespace.
+[32m+[m[32m  const effectiveRemainingMins = progress[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:71: trailing whitespace.
+[32m+[m[32m    ? progress.remainingMinutes[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:72: trailing whitespace.
+[32m+[m[32m    : route.estimatedWalkingMinutes;[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:73: trailing whitespace.
+[32m+[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:74: trailing whitespace.
+[32m+[m[32m  const effectiveEta = progress[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:75: trailing whitespace.
+[32m+[m[32m    ? progress.formattedEta[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:76: trailing whitespace.
+[32m+[m[32m    : new Date(Date.now() + route.estimatedWalkingMinutes * 60000).toLocaleTimeString([], {[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:77: trailing whitespace.
+[32m+[m[32m        hour: '2-digit',[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:78: trailing whitespace.
+[32m+[m[32m        minute: '2-digit',[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:79: trailing whitespace.
+[32m+[m[32m      });[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:80: trailing whitespace.
+[32m+[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:81: trailing whitespace.
+[32m+[m[32m  const effectiveIsArrived = progress ? progress.isArrived : route.isArrived;[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:82: trailing whitespace.
+[32m+[m[32m  const effectiveIsOffRoute = isOffRoute || (progress ? progress.isOffRoute : false);[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:83: trailing whitespace.
+[32m+[m[32m  const effectiveOffDistance = offRouteDistanceMeters || (progress ? progress.distanceToRouteMeters : 0);[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:84: trailing whitespace.
+[32m+[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:85: trailing whitespace.
+[32m+[m[32m  const activeStep = progress?.currentStep || route.steps[0] || null;[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:86: trailing whitespace.
+[32m+[m[32m  const nextStep = progress?.nextStep || (route.steps.length > 1 ? route.steps[1] : null);[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:87: trailing whitespace.
+[32m+[m[32m  const distanceToTurn = progress ? progress.distanceToNextTurnMeters : activeStep?.distanceMeters || 0;[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:88: trailing whitespace.
+[32m+[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:89: trailing whitespace.
+[32m+[m[32m  const exitNavLabel = {[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:90: trailing whitespace.
+[32m+[m[32m    en: 'Exit Navigation',[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:91: trailing whitespace.
+[32m+[m[32m    te: 'నిష్క్రమించు',[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:92: trailing whitespace.
+[32m+[m[32m    hi: 'समाप्त करें',[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:93: trailing whitespace.
+[32m+[m[32m  }[currentLanguage] || 'Exit Navigation';[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:94: trailing whitespace.
+[32m+[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:95: trailing whitespace.
+[32m+[m[32m  const getManeuverIcon = (turnType?: string, className: string = 'w-6 h-6') => {[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:96: trailing whitespace.
+[32m+[m[32m    switch (turnType) {[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:97: trailing whitespace.
+[32m+[m[32m      case 'left':[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:98: trailing whitespace.
+[32m+[m[32m        return <CornerUpLeft className={className} />;[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:99: trailing whitespace.
+[32m+[m[32m      case 'right':[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:100: trailing whitespace.
+[32m+[m[32m        return <CornerUpRight className={className} />;[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:101: trailing whitespace.
+[32m+[m[32m      case 'slight_left':[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:102: trailing whitespace.
+[32m+[m[32m        return <ArrowUpLeft className={className} />;[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:103: trailing whitespace.
+[32m+[m[32m      case 'slight_right':[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:104: trailing whitespace.
+[32m+[m[32m        return <ArrowUpRight className={className} />;[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:105: trailing whitespace.
+[32m+[m[32m      case 'arrive':[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:106: trailing whitespace.
+[32m+[m[32m        return <CheckCircle2 className={className} />;[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:107: trailing whitespace.
+[32m+[m[32m      default:[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:108: trailing whitespace.
+[32m+[m[32m        return <ArrowUp className={className} />;[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:109: trailing whitespace.
+[32m+[m[32m    }[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:110: trailing whitespace.
+[32m+[m[32m  };[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:111: trailing whitespace.
+[32m+[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:112: trailing whitespace.
+[32m+[m[32m  return ([m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:113: trailing whitespace.
+[32m+[m[32m    <>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:114: trailing whitespace.
+[32m+[m[32m      {/* Mobile Top Alerts (off-site / off-route / arrival) */}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:115: trailing whitespace.
+[32m+[m[32m      <div className="md:hidden fixed top-14 inset-x-3 z-30 pointer-events-none flex flex-col gap-1.5 font-sans">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:116: trailing whitespace.
+[32m+[m[32m        {/* 1. Off-site Event Perimeter Notice Banner */}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:117: trailing whitespace.
+[32m+[m[32m        {isOutsideGeofence && ([m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:118: trailing whitespace.
+[32m+[m[32m          <div className="pointer-events-auto bg-amber-500 text-slate-950 p-2.5 rounded-xl shadow-lg border border-amber-300 flex items-center justify-between gap-2 text-xs">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:119: trailing whitespace.
+[32m+[m[32m            <span className="font-extrabold truncate">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:120: trailing whitespace.
+[32m+[m[32m              {t.navigation.outsideGeofenceNotice} {offsiteDistanceKm ? `(~${offsiteDistanceKm} km)` : ''}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:121: trailing whitespace.
+[32m+[m[32m            </span>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:122: trailing whitespace.
+[32m+[m[32m            <button[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:123: trailing whitespace.
+[32m+[m[32m              onClick={onChangeOrigin}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:124: trailing whitespace.
+[32m+[m[32m              className="px-2 py-0.5 bg-slate-950 text-amber-300 font-bold rounded text-[10px] shrink-0"[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:125: trailing whitespace.
+[32m+[m[32m            >[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:126: trailing whitespace.
+[32m+[m[32m              {t.navigation.changeGateBtn}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:127: trailing whitespace.
+[32m+[m[32m            </button>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:128: trailing whitespace.
+[32m+[m[32m          </div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:129: trailing whitespace.
+[32m+[m[32m        )}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:130: trailing whitespace.
+[32m+[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:131: trailing whitespace.
+[32m+[m[32m        {/* 2. Destination Arrival Banner */}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:132: trailing whitespace.
+[32m+[m[32m        {effectiveIsArrived && ([m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:133: trailing whitespace.
+[32m+[m[32m          <div className="pointer-events-auto bg-emerald-600 text-white p-3 rounded-xl shadow-xl flex items-center gap-2.5 animate-bounce border border-emerald-400">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:134: trailing whitespace.
+[32m+[m[32m            <CheckCircle2 className="w-5 h-5 text-white shrink-0" />[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:135: trailing whitespace.
+[32m+[m[32m            <div className="font-black text-xs">{t.navigation.arrivedTitle} - {t.navigation.arrivedDesc}</div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:136: trailing whitespace.
+[32m+[m[32m          </div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:137: trailing whitespace.
+[32m+[m[32m        )}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:138: trailing whitespace.
+[32m+[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:139: trailing whitespace.
+[32m+[m[32m        {/* 3. Off-Route Recalculation Alert */}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:140: trailing whitespace.
+[32m+[m[32m        {effectiveIsOffRoute && !effectiveIsArrived && ([m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:141: trailing whitespace.
+[32m+[m[32m          <div className="pointer-events-auto bg-rose-600 text-white p-2.5 rounded-xl shadow-lg flex items-center justify-between gap-2 border border-rose-400 text-xs">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:142: trailing whitespace.
+[32m+[m[32m            <span className="font-bold truncate">Off route (~{effectiveOffDistance}m)</span>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:143: trailing whitespace.
+[32m+[m[32m            {onRecalculateRoute && ([m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:144: trailing whitespace.
+[32m+[m[32m              <button[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:145: trailing whitespace.
+[32m+[m[32m                onClick={onRecalculateRoute}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:146: trailing whitespace.
+[32m+[m[32m                className="px-2 py-0.5 bg-white text-rose-700 font-bold rounded text-[10px] shrink-0"[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:147: trailing whitespace.
+[32m+[m[32m              >[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:148: trailing whitespace.
+[32m+[m[32m                Reroute[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:149: trailing whitespace.
+[32m+[m[32m              </button>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:150: trailing whitespace.
+[32m+[m[32m            )}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:151: trailing whitespace.
+[32m+[m[32m          </div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:152: trailing whitespace.
+[32m+[m[32m        )}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:153: trailing whitespace.
+[32m+[m[32m      </div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:154: trailing whitespace.
+[32m+[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:155: trailing whitespace.
+[32m+[m[32m      {/* 4. MOBILE FIXED COMPACT BOTTOM NAVIGATION HUD (< md) - REPLACES BOTTOM TABS */}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:156: trailing whitespace.
+[32m+[m[32m      <div className="md:hidden fixed bottom-0 left-0 right-0 z-40 h-[110px] bg-slate-950 border-t-2 border-emerald-500 p-3 flex flex-col justify-between shadow-2xl text-white select-none">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:157: trailing whitespace.
+[32m+[m[32m        {/* Row 1: Next Direction & Maneuver Instruction */}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:158: trailing whitespace.
+[32m+[m[32m        <div className="flex items-center space-x-2.5">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:159: trailing whitespace.
+[32m+[m[32m          <div className="w-9 h-9 rounded-xl bg-emerald-600 text-white flex items-center justify-center shrink-0 shadow-md border border-emerald-400/40 text-lg font-black">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:160: trailing whitespace.
+[32m+[m[32m            {getManeuverIcon(activeStep?.turnType, 'w-5 h-5 stroke-[2.5]')}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:161: trailing whitespace.
+[32m+[m[32m          </div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:162: trailing whitespace.
+[32m+[m[32m          <div className="flex-1 min-w-0">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:163: trailing whitespace.
+[32m+[m[32m            <div className="flex items-center space-x-1.5">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:164: trailing whitespace.
+[32m+[m[32m              <span className="text-xs font-black text-emerald-400">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:165: trailing whitespace.
+[32m+[m[32m                IN {distanceToTurn}m[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:166: trailing whitespace.
+[32m+[m[32m              </span>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:167: trailing whitespace.
+[32m+[m[32m              <span className="text-[10px] text-slate-400 truncate">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:168: trailing whitespace.
+[32m+[m[32m                ➔ {route.destination.name[currentLanguage] || route.destination.name.en}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:169: trailing whitespace.
+[32m+[m[32m              </span>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:170: trailing whitespace.
+[32m+[m[32m            </div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:171: trailing whitespace.
+[32m+[m[32m            <p className="text-xs font-bold text-white truncate leading-snug">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:172: trailing whitespace.
+[32m+[m[32m              {activeStep[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:173: trailing whitespace.
+[32m+[m[32m                ? activeStep.instruction[currentLanguage] || activeStep.instruction.en[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:174: trailing whitespace.
+[32m+[m[32m                : `Walk toward ${route.destination.name[currentLanguage] || route.destination.name.en}`}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:175: trailing whitespace.
+[32m+[m[32m            </p>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:176: trailing whitespace.
+[32m+[m[32m          </div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:177: trailing whitespace.
+[32m+[m[32m        </div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:178: trailing whitespace.
+[32m+[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:179: trailing whitespace.
+[32m+[m[32m        {/* Row 2: Metrics Row & Exit Navigation Action */}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:180: trailing whitespace.
+[32m+[m[32m        <div className="pt-2 border-t border-slate-800/80 flex items-center justify-between">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:181: trailing whitespace.
+[32m+[m[32m          <div className="flex items-center space-x-2 text-xs font-mono">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:182: trailing whitespace.
+[32m+[m[32m            <div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:183: trailing whitespace.
+[32m+[m[32m              <span className="text-sm font-black text-white">{effectiveRemainingDist}m</span>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:184: trailing whitespace.
+[32m+[m[32m              <span className="text-[10px] text-slate-400 ml-1 font-sans">left</span>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:185: trailing whitespace.
+[32m+[m[32m            </div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:186: trailing whitespace.
+[32m+[m[32m            <span className="text-slate-600">•</span>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:187: trailing whitespace.
+[32m+[m[32m            <div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:188: trailing whitespace.
+[32m+[m[32m              <span className="text-sm font-black text-emerald-400">{effectiveRemainingMins}m</span>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:189: trailing whitespace.
+[32m+[m[32m              <span className="text-[10px] text-slate-400 ml-1 font-sans">walk</span>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:190: trailing whitespace.
+[32m+[m[32m            </div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:191: trailing whitespace.
+[32m+[m[32m            <span className="text-slate-600">•</span>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:192: trailing whitespace.
+[32m+[m[32m            <span className="px-1.5 py-0.5 rounded bg-emerald-950 text-emerald-300 text-[10px] font-bold border border-emerald-800/60 font-sans">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:193: trailing whitespace.
+[32m+[m[32m              {effectiveEta} ETA[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:194: trailing whitespace.
+[32m+[m[32m            </span>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:195: trailing whitespace.
+[32m+[m[32m          </div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:196: trailing whitespace.
+[32m+[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:197: trailing whitespace.
+[32m+[m[32m          {/* Exit Navigation Button */}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:198: trailing whitespace.
+[32m+[m[32m          <button[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:199: trailing whitespace.
+[32m+[m[32m            onClick={onExitNavigation}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:200: trailing whitespace.
+[32m+[m[32m            className="px-3 py-1.5 rounded-xl bg-red-600 hover:bg-red-700 active:scale-95 text-white font-black text-xs shadow-md border border-red-500 flex items-center space-x-1 transition-all"[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:201: trailing whitespace.
+[32m+[m[32m            aria-label={exitNavLabel}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:202: trailing whitespace.
+[32m+[m[32m          >[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:203: trailing whitespace.
+[32m+[m[32m            <span>🛑</span>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:204: trailing whitespace.
+[32m+[m[32m            <span>{exitNavLabel}</span>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:205: trailing whitespace.
+[32m+[m[32m          </button>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:206: trailing whitespace.
+[32m+[m[32m        </div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:207: trailing whitespace.
+[32m+[m[32m      </div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:208: trailing whitespace.
+[32m+[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:209: trailing whitespace.
+[32m+[m[32m      {/* 5. DESKTOP NAVIGATION PANEL (>= md) - 100% PRESERVED */}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:210: trailing whitespace.
+[32m+[m[32m      <div className="hidden md:flex absolute inset-x-3 top-3 pointer-events-none z-30 flex-col gap-2 font-sans max-w-xl mx-auto md:mx-0 md:left-4 md:right-auto md:w-[420px]">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:211: trailing whitespace.
+[32m+[m[32m      {/* 1. Off-site Event Perimeter Notice Banner */}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:212: trailing whitespace.
+[32m+[m[32m      {isOutsideGeofence && ([m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:213: trailing whitespace.
+[32m+[m[32m        <div className="pointer-events-auto bg-amber-500 text-slate-950 p-3 rounded-2xl shadow-xl border-2 border-amber-300 flex items-start justify-between gap-2.5 animate-in fade-in slide-in-from-top-2 duration-200">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:214: trailing whitespace.
+[32m+[m[32m          <div className="flex items-start gap-2">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:215: trailing whitespace.
+[32m+[m[32m            <div className="w-7 h-7 rounded-lg bg-slate-950/20 flex items-center justify-center flex-shrink-0 mt-0.5">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:216: trailing whitespace.
+[32m+[m[32m              <MapPin className="w-4 h-4 text-slate-950" />[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:217: trailing whitespace.
+[32m+[m[32m            </div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:218: trailing whitespace.
+[32m+[m[32m            <div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:219: trailing whitespace.
+[32m+[m[32m              <div className="font-extrabold text-xs uppercase tracking-wide leading-tight">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:220: trailing whitespace.
+[32m+[m[32m                {t.navigation.outsideGeofenceNotice} {offsiteDistanceKm ? `(~${offsiteDistanceKm} km)` : ''}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:221: trailing whitespace.
+[32m+[m[32m              </div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:222: trailing whitespace.
+[32m+[m[32m              <div className="text-[11px] font-semibold text-slate-900 mt-0.5">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:223: trailing whitespace.
+[32m+[m[32m                {t.navigation.outsideGeofenceDesc}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:224: trailing whitespace.
+[32m+[m[32m              </div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:225: trailing whitespace.
+[32m+[m[32m            </div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:226: trailing whitespace.
+[32m+[m[32m          </div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:227: trailing whitespace.
+[32m+[m[32m          <button[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:228: trailing whitespace.
+[32m+[m[32m            onClick={onChangeOrigin}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:229: trailing whitespace.
+[32m+[m[32m            className="px-2.5 py-1 bg-slate-950 text-amber-300 hover:bg-slate-900 font-bold rounded-lg text-xs whitespace-nowrap transition-colors shadow-sm"[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:230: trailing whitespace.
+[32m+[m[32m          >[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:231: trailing whitespace.
+[32m+[m[32m            {t.navigation.changeGateBtn}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:232: trailing whitespace.
+[32m+[m[32m          </button>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:233: trailing whitespace.
+[32m+[m[32m        </div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:234: trailing whitespace.
+[32m+[m[32m      )}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:235: trailing whitespace.
+[32m+[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:236: trailing whitespace.
+[32m+[m[32m      {/* 2. Destination Arrival Banner */}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:237: trailing whitespace.
+[32m+[m[32m      {effectiveIsArrived && ([m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:238: trailing whitespace.
+[32m+[m[32m        <div className="pointer-events-auto bg-emerald-600 text-white p-4 rounded-2xl shadow-2xl flex items-center gap-3 animate-bounce border-2 border-emerald-400">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:239: trailing whitespace.
+[32m+[m[32m          <div className="w-10 h-10 rounded-xl bg-white/20 flex items-center justify-center flex-shrink-0">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:240: trailing whitespace.
+[32m+[m[32m            <CheckCircle2 className="w-6 h-6 text-white" />[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:241: trailing whitespace.
+[32m+[m[32m          </div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:242: trailing whitespace.
+[32m+[m[32m          <div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:243: trailing whitespace.
+[32m+[m[32m            <div className="font-black text-base leading-tight">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:244: trailing whitespace.
+[32m+[m[32m              {t.navigation.arrivedTitle}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:245: trailing whitespace.
+[32m+[m[32m            </div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:246: trailing whitespace.
+[32m+[m[32m            <div className="text-xs text-emerald-100 mt-0.5">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:247: trailing whitespace.
+[32m+[m[32m              {t.navigation.arrivedDesc}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:248: trailing whitespace.
+[32m+[m[32m            </div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:249: trailing whitespace.
+[32m+[m[32m          </div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:250: trailing whitespace.
+[32m+[m[32m        </div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:251: trailing whitespace.
+[32m+[m[32m      )}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:252: trailing whitespace.
+[32m+[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:253: trailing whitespace.
+[32m+[m[32m      {/* 3. Off-Route Recalculation Alert */}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:254: trailing whitespace.
+[32m+[m[32m      {effectiveIsOffRoute && !effectiveIsArrived && ([m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:255: trailing whitespace.
+[32m+[m[32m        <div className="pointer-events-auto bg-rose-600 text-white p-3 rounded-2xl shadow-xl flex items-center justify-between gap-3 animate-pulse border-2 border-rose-400">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:256: trailing whitespace.
+[32m+[m[32m          <div className="flex items-center gap-2.5">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:257: trailing whitespace.
+[32m+[m[32m            <AlertTriangle className="w-5 h-5 text-amber-300 flex-shrink-0" />[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:258: trailing whitespace.
+[32m+[m[32m            <div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:259: trailing whitespace.
+[32m+[m[32m              <div className="font-black text-xs uppercase tracking-wide">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:260: trailing whitespace.
+[32m+[m[32m                {t.navigation.offRouteNotice}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:261: trailing whitespace.
+[32m+[m[32m              </div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:262: trailing whitespace.
+[32m+[m[32m              <div className="text-[11px] text-rose-100">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:263: trailing whitespace.
+[32m+[m[32m                Deviated by ~{effectiveOffDistance}m from pedestrian route[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:264: trailing whitespace.
+[32m+[m[32m              </div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:265: trailing whitespace.
+[32m+[m[32m            </div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:266: trailing whitespace.
+[32m+[m[32m          </div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:267: trailing whitespace.
+[32m+[m[32m          {onRecalculateRoute && ([m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:268: trailing whitespace.
+[32m+[m[32m            <button[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:269: trailing whitespace.
+[32m+[m[32m              onClick={onRecalculateRoute}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:270: trailing whitespace.
+[32m+[m[32m              className="px-2.5 py-1 bg-white text-rose-700 hover:bg-rose-50 font-bold rounded-lg text-xs flex items-center gap-1 shadow-sm transition-colors"[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:271: trailing whitespace.
+[32m+[m[32m            >[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:272: trailing whitespace.
+[32m+[m[32m              <RefreshCw className="w-3.5 h-3.5 animate-spin" />[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:273: trailing whitespace.
+[32m+[m[32m              <span>Reroute</span>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:274: trailing whitespace.
+[32m+[m[32m            </button>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:275: trailing whitespace.
+[32m+[m[32m          )}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:276: trailing whitespace.
+[32m+[m[32m        </div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:277: trailing whitespace.
+[32m+[m[32m      )}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:278: trailing whitespace.
+[32m+[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:279: trailing whitespace.
+[32m+[m[32m      {/* 5. DESKTOP TOP MANEUVER HUD CARD (hidden on mobile, visible on desktop) */}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:280: trailing whitespace.
+[32m+[m[32m      <div className="hidden md:block pointer-events-auto bg-slate-900/95 backdrop-blur-md rounded-2xl shadow-2xl border border-slate-700/80 overflow-hidden text-white">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:281: trailing whitespace.
+[32m+[m[32m        <div className="p-3.5 flex items-start gap-3.5">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:282: trailing whitespace.
+[32m+[m[32m          {/* Large Directional Maneuver Icon */}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:283: trailing whitespace.
+[32m+[m[32m          <div className="w-12 h-12 rounded-xl bg-emerald-600 text-white flex items-center justify-center flex-shrink-0 shadow-lg border border-emerald-400/40">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:284: trailing whitespace.
+[32m+[m[32m            {getManeuverIcon(activeStep?.turnType, 'w-7 h-7 stroke-[2.5]')}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:285: trailing whitespace.
+[32m+[m[32m          </div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:286: trailing whitespace.
+[32m+[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:287: trailing whitespace.
+[32m+[m[32m          <div className="flex-1 min-w-0">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:288: trailing whitespace.
+[32m+[m[32m            {/* Distance to Turn */}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:289: trailing whitespace.
+[32m+[m[32m            <div className="flex items-baseline gap-1.5">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:290: trailing whitespace.
+[32m+[m[32m              <span className="text-2xl font-black text-emerald-400 tracking-tight">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:291: trailing whitespace.
+[32m+[m[32m                {distanceToTurn}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:292: trailing whitespace.
+[32m+[m[32m              </span>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:293: trailing whitespace.
+[32m+[m[32m              <span className="text-xs uppercase font-extrabold text-emerald-300">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:294: trailing whitespace.
+[32m+[m[32m                {t.gps.meters}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:295: trailing whitespace.
+[32m+[m[32m              </span>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:296: trailing whitespace.
+[32m+[m[32m            </div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:297: trailing whitespace.
+[32m+[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:298: trailing whitespace.
+[32m+[m[32m            {/* Maneuver Instruction */}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:299: trailing whitespace.
+[32m+[m[32m            <div className="text-sm font-bold text-white/95 leading-snug line-clamp-2 mt-0.5">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:300: trailing whitespace.
+[32m+[m[32m              {activeStep[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:301: trailing whitespace.
+[32m+[m[32m                ? activeStep.instruction[currentLanguage] || activeStep.instruction.en[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:302: trailing whitespace.
+[32m+[m[32m                : `Walk toward ${route.destination.name[currentLanguage] || route.destination.name.en}`}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:303: trailing whitespace.
+[32m+[m[32m            </div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:304: trailing whitespace.
+[32m+[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:305: trailing whitespace.
+[32m+[m[32m            {/* Next Sub-Maneuver Hint */}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:306: trailing whitespace.
+[32m+[m[32m            {nextStep && ([m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:307: trailing whitespace.
+[32m+[m[32m              <div className="text-[11px] text-slate-400 font-medium truncate mt-1 flex items-center gap-1">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:308: trailing whitespace.
+[32m+[m[32m                <span className="text-slate-500 uppercase text-[9px] font-bold">Then:</span>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:309: trailing whitespace.
+[32m+[m[32m                <span>{nextStep.instruction[currentLanguage] || nextStep.instruction.en}</span>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:310: trailing whitespace.
+[32m+[m[32m              </div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:311: trailing whitespace.
+[32m+[m[32m            )}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:312: trailing whitespace.
+[32m+[m[32m          </div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:313: trailing whitespace.
+[32m+[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:314: trailing whitespace.
+[32m+[m[32m          {/* Quick Exit Button */}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:315: trailing whitespace.
+[32m+[m[32m          <button[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:316: trailing whitespace.
+[32m+[m[32m            onClick={onExitNavigation}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:317: trailing whitespace.
+[32m+[m[32m            className="p-1.5 rounded-xl bg-slate-800 hover:bg-slate-700 text-slate-400 hover:text-white transition-colors flex-shrink-0"[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:318: trailing whitespace.
+[32m+[m[32m            title={t.navigation.stopNavigation}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:319: trailing whitespace.
+[32m+[m[32m          >[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:320: trailing whitespace.
+[32m+[m[32m            <X className="w-4 h-4" />[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:321: trailing whitespace.
+[32m+[m[32m          </button>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:322: trailing whitespace.
+[32m+[m[32m        </div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:323: trailing whitespace.
+[32m+[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:324: trailing whitespace.
+[32m+[m[32m        {/* Dynamic Route Safety / Detour Sub-bar */}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:325: trailing whitespace.
+[32m+[m[32m        {route.congestionAvoided && ([m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:326: trailing whitespace.
+[32m+[m[32m          <div className="px-3.5 py-1.5 bg-emerald-950/80 border-t border-emerald-800/40 flex items-center justify-between text-[11px] text-emerald-300">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:327: trailing whitespace.
+[32m+[m[32m            <span className="font-semibold flex items-center gap-1.5">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:328: trailing whitespace.
+[32m+[m[32m              <span>🛡️</span>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:329: trailing whitespace.
+[32m+[m[32m              <span>Smart Detour Active (Crowd Avoidance)</span>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:330: trailing whitespace.
+[32m+[m[32m            </span>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:331: trailing whitespace.
+[32m+[m[32m            <span className="text-[10px] text-emerald-400 font-mono">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:332: trailing whitespace.
+[32m+[m[32m              Direct {route.originalDistanceMeters}m → Walk {route.totalDistanceMeters}m[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:333: trailing whitespace.
+[32m+[m[32m            </span>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:334: trailing whitespace.
+[32m+[m[32m          </div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:335: trailing whitespace.
+[32m+[m[32m        )}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:336: trailing whitespace.
+[32m+[m[32m      </div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:337: trailing whitespace.
+[32m+[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:338: trailing whitespace.
+[32m+[m[32m      {/* 6. DESKTOP BOTTOM / SECONDARY NAVIGATION CONTROLS (hidden on mobile, visible on desktop) */}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:339: trailing whitespace.
+[32m+[m[32m      <div className="hidden md:block pointer-events-auto bg-white/95 backdrop-blur-md rounded-2xl shadow-xl border border-slate-200/90 overflow-hidden text-slate-800">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:340: trailing whitespace.
+[32m+[m[32m        <div className="p-3.5 flex items-center justify-between gap-3">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:341: trailing whitespace.
+[32m+[m[32m          {/* Estimated Time Remaining & ETA */}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:342: trailing whitespace.
+[32m+[m[32m          <div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:343: trailing whitespace.
+[32m+[m[32m            <div className="flex items-baseline gap-1.5">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:344: trailing whitespace.
+[32m+[m[32m              <span className="text-2xl font-black text-emerald-600 tracking-tight">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:345: trailing whitespace.
+[32m+[m[32m                {effectiveRemainingMins}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:346: trailing whitespace.
+[32m+[m[32m              </span>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:347: trailing whitespace.
+[32m+[m[32m              <span className="text-xs uppercase font-extrabold text-emerald-700">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:348: trailing whitespace.
+[32m+[m[32m                {t.navigation.minutes}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:349: trailing whitespace.
+[32m+[m[32m              </span>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:350: trailing whitespace.
+[32m+[m[32m            </div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:351: trailing whitespace.
+[32m+[m[32m            <div className="text-[11px] font-bold text-slate-500 mt-0.5 flex items-center gap-1.5">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:352: trailing whitespace.
+[32m+[m[32m              <span>{effectiveRemainingDist} {t.gps.meters}</span>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:353: trailing whitespace.
+[32m+[m[32m              <span>•</span>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:354: trailing whitespace.
+[32m+[m[32m              <span>{t.navigation.eta} {effectiveEta}</span>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:355: trailing whitespace.
+[32m+[m[32m            </div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:356: trailing whitespace.
+[32m+[m[32m          </div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:357: trailing whitespace.
+[32m+[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:358: trailing whitespace.
+[32m+[m[32m          {/* Location Source / Accuracy Badge */}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:359: trailing whitespace.
+[32m+[m[32m          <div className="text-right flex flex-col items-end">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:360: trailing whitespace.
+[32m+[m[32m            <span[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:361: trailing whitespace.
+[32m+[m[32m              className={`inline-flex items-center gap-1 px-2.5 py-0.5 rounded-full text-[10px] font-bold ${[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:362: trailing whitespace.
+[32m+[m[32m                userLocation?.source === 'live_gps'[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:363: trailing whitespace.
+[32m+[m[32m                  ? 'bg-blue-100 text-blue-800 border border-blue-200'[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:364: trailing whitespace.
+[32m+[m[32m                  : 'bg-amber-100 text-amber-800 border border-amber-200'[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:365: trailing whitespace.
+[32m+[m[32m              }`}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:366: trailing whitespace.
+[32m+[m[32m            >[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:367: trailing whitespace.
+[32m+[m[32m              <span className={`w-1.5 h-1.5 rounded-full ${userLocation?.source === 'live_gps' ? 'bg-blue-600 animate-ping' : 'bg-amber-600'}`}></span>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:368: trailing whitespace.
+[32m+[m[32m              <span>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:369: trailing whitespace.
+[32m+[m[32m                {userLocation?.source === 'live_gps'[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:370: trailing whitespace.
+[32m+[m[32m                  ? `Live GPS (±${Math.round(userLocation.accuracy || 8)}m)`[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:371: trailing whitespace.
+[32m+[m[32m                  : userLocation?.label || 'Manual Gate'}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:372: trailing whitespace.
+[32m+[m[32m              </span>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:373: trailing whitespace.
+[32m+[m[32m            </span>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:374: trailing whitespace.
+[32m+[m[32m            <span className="text-[9px] text-slate-400 font-medium mt-0.5">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:375: trailing whitespace.
+[32m+[m[32m              {t.navigation.walkingSpeedNote}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:376: trailing whitespace.
+[32m+[m[32m            </span>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:377: trailing whitespace.
+[32m+[m[32m          </div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:378: trailing whitespace.
+[32m+[m[32m        </div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:379: trailing whitespace.
+[32m+[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:380: trailing whitespace.
+[32m+[m[32m        {/* Action Button Row */}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:381: trailing whitespace.
+[32m+[m[32m        <div className="px-3.5 py-2 bg-slate-50 border-t border-slate-200/70 flex items-center justify-between gap-1.5">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:382: trailing whitespace.
+[32m+[m[32m          {/* Route Overview */}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:383: trailing whitespace.
+[32m+[m[32m          {onRouteOverview && ([m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:384: trailing whitespace.
+[32m+[m[32m            <button[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:385: trailing whitespace.
+[32m+[m[32m              onClick={onRouteOverview}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:386: trailing whitespace.
+[32m+[m[32m              className="px-2.5 py-1.5 bg-white hover:bg-slate-100 text-slate-700 border border-slate-200 rounded-xl text-xs font-bold transition-all shadow-xs flex items-center gap-1.5"[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:387: trailing whitespace.
+[32m+[m[32m              title="Overview entire route"[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:388: trailing whitespace.
+[32m+[m[32m            >[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:389: trailing whitespace.
+[32m+[m[32m              <Maximize2 className="w-3.5 h-3.5 text-blue-600" />[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:390: trailing whitespace.
+[32m+[m[32m              <span>{t.navigation.routeOverview}</span>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:391: trailing whitespace.
+[32m+[m[32m            </button>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:392: trailing whitespace.
+[32m+[m[32m          )}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:393: trailing whitespace.
+[32m+[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:394: trailing whitespace.
+[32m+[m[32m          {/* Re-center / Follow Mode */}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:395: trailing whitespace.
+[32m+[m[32m          {onRecenterOnUser && ([m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:396: trailing whitespace.
+[32m+[m[32m            <button[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:397: trailing whitespace.
+[32m+[m[32m              onClick={onRecenterOnUser}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:398: trailing whitespace.
+[32m+[m[32m              className={`px-2.5 py-1.5 rounded-xl text-xs font-bold transition-all shadow-xs flex items-center gap-1.5 ${[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:399: trailing whitespace.
+[32m+[m[32m                isFollowingUser[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:400: trailing whitespace.
+[32m+[m[32m                  ? 'bg-blue-600 text-white shadow-blue-200'[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:401: trailing whitespace.
+[32m+[m[32m                  : 'bg-white hover:bg-slate-100 text-slate-700 border border-slate-200'[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:402: trailing whitespace.
+[32m+[m[32m              }`}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:403: trailing whitespace.
+[32m+[m[32m              title="Follow user location"[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:404: trailing whitespace.
+[32m+[m[32m            >[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:405: trailing whitespace.
+[32m+[m[32m              <Crosshair className={`w-3.5 h-3.5 ${isFollowingUser ? 'text-white' : 'text-blue-600'}`} />[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:406: trailing whitespace.
+[32m+[m[32m              <span>{t.navigation.recenter}</span>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:407: trailing whitespace.
+[32m+[m[32m            </button>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:408: trailing whitespace.
+[32m+[m[32m          )}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:409: trailing whitespace.
+[32m+[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:410: trailing whitespace.
+[32m+[m[32m          {/* Turn-by-Turn Expand Toggle */}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:411: trailing whitespace.
+[32m+[m[32m          <button[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:412: trailing whitespace.
+[32m+[m[32m            onClick={() => setIsStepsExpanded(!isStepsExpanded)}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:413: trailing whitespace.
+[32m+[m[32m            className="px-2.5 py-1.5 bg-white hover:bg-slate-100 text-slate-700 border border-slate-200 rounded-xl text-xs font-bold transition-all shadow-xs flex items-center gap-1.5"[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:414: trailing whitespace.
+[32m+[m[32m          >[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:415: trailing whitespace.
+[32m+[m[32m            <List className="w-3.5 h-3.5 text-indigo-600" />[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:416: trailing whitespace.
+[32m+[m[32m            <span>Steps ({route.steps.length})</span>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:417: trailing whitespace.
+[32m+[m[32m            {isStepsExpanded ? <ChevronUp className="w-3 h-3" /> : <ChevronDown className="w-3 h-3" />}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:418: trailing whitespace.
+[32m+[m[32m          </button>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:419: trailing whitespace.
+[32m+[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:420: trailing whitespace.
+[32m+[m[32m          {/* Change Starting Point */}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:421: trailing whitespace.
+[32m+[m[32m          <button[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:422: trailing whitespace.
+[32m+[m[32m            onClick={onChangeOrigin}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:423: trailing whitespace.
+[32m+[m[32m            className="p-1.5 bg-white hover:bg-slate-100 text-slate-600 border border-slate-200 rounded-xl transition-all shadow-xs"[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:424: trailing whitespace.
+[32m+[m[32m            title="Change Starting Point"[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:425: trailing whitespace.
+[32m+[m[32m          >[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:426: trailing whitespace.
+[32m+[m[32m            <MapPin className="w-3.5 h-3.5 text-amber-600" />[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:427: trailing whitespace.
+[32m+[m[32m          </button>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:428: trailing whitespace.
+[32m+[m[32m        </div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:429: trailing whitespace.
+[32m+[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:430: trailing whitespace.
+[32m+[m[32m        {/* Turn-by-Turn Guidance Expandable Drawer */}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:431: trailing whitespace.
+[32m+[m[32m        {isStepsExpanded && ([m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:432: trailing whitespace.
+[32m+[m[32m          <div className="p-3 bg-slate-50/90 border-t border-slate-200 space-y-2 max-h-56 overflow-y-auto">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:433: trailing whitespace.
+[32m+[m[32m            {route.steps.map((step, idx) => {[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:434: trailing whitespace.
+[32m+[m[32m              const isCurrent = progress?.currentStepIndex === idx;[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:435: trailing whitespace.
+[32m+[m[32m              return ([m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:436: trailing whitespace.
+[32m+[m[32m                <div[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:437: trailing whitespace.
+[32m+[m[32m                  key={step.id}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:438: trailing whitespace.
+[32m+[m[32m                  className={`flex items-start gap-2.5 p-2 rounded-xl text-xs transition-colors ${[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:439: trailing whitespace.
+[32m+[m[32m                    isCurrent[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:440: trailing whitespace.
+[32m+[m[32m                      ? 'bg-emerald-50 border-2 border-emerald-400 text-emerald-950 font-bold shadow-xs'[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:441: trailing whitespace.
+[32m+[m[32m                      : 'bg-white border border-slate-200/70 text-slate-700'[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:442: trailing whitespace.
+[32m+[m[32m                  }`}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:443: trailing whitespace.
+[32m+[m[32m                >[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:444: trailing whitespace.
+[32m+[m[32m                  <div[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:445: trailing whitespace.
+[32m+[m[32m                    className={`w-6 h-6 rounded-lg flex items-center justify-center flex-shrink-0 mt-0.5 ${[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:446: trailing whitespace.
+[32m+[m[32m                      isCurrent ? 'bg-emerald-600 text-white' : 'bg-slate-100 text-slate-600'[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:447: trailing whitespace.
+[32m+[m[32m                    }`}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:448: trailing whitespace.
+[32m+[m[32m                  >[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:449: trailing whitespace.
+[32m+[m[32m                    {getManeuverIcon(step.turnType, 'w-3.5 h-3.5')}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:450: trailing whitespace.
+[32m+[m[32m                  </div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:451: trailing whitespace.
+[32m+[m[32m                  <div className="flex-1 min-w-0">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:452: trailing whitespace.
+[32m+[m[32m                    <div className="leading-snug">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:453: trailing whitespace.
+[32m+[m[32m                      {step.instruction[currentLanguage] || step.instruction.en}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:454: trailing whitespace.
+[32m+[m[32m                    </div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:455: trailing whitespace.
+[32m+[m[32m                    <div className="text-[10px] text-slate-400 font-semibold mt-0.5">[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:456: trailing whitespace.
+[32m+[m[32m                      Step {idx + 1} • {step.distanceMeters} {t.gps.meters}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:457: trailing whitespace.
+[32m+[m[32m                    </div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:458: trailing whitespace.
+[32m+[m[32m                  </div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:459: trailing whitespace.
+[32m+[m[32m                </div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:460: trailing whitespace.
+[32m+[m[32m              );[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:461: trailing whitespace.
+[32m+[m[32m            })}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:462: trailing whitespace.
+[32m+[m[32m          </div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:463: trailing whitespace.
+[32m+[m[32m        )}[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:464: trailing whitespace.
+[32m+[m[32m      </div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:465: trailing whitespace.
+[32m+[m[32m    </div>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:466: trailing whitespace.
+[32m+[m[32m    </>[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:467: trailing whitespace.
+[32m+[m[32m  );[m[41m[m
+frontend/src/components/navigation/NavigationPanel.tsx:468: trailing whitespace.
+[32m+[m[32m};[m[41m[m
+frontend/src/components/places/MobilePlacesView.tsx:876: new blank line at EOF.
+frontend/src/services/apiService.ts:202: new blank line at EOF.
+frontend/src/types/index.ts:282: new blank line at EOF.
+verify_phase4_2_crowd_routing.cjs:91: trailing whitespace.
+[32m+[m[41m    [m
+verify_phase4_2_crowd_routing.cjs:126: trailing whitespace.
+[32m+[m[32m    const presetButtons = Array.from(document.querySelectorAll('button')).filter(b =>[m[41m [m
+verify_phase4_2_crowd_routing.cjs:195: trailing whitespace.
+[32m+[m[32m    const detourBadge = Array.from(document.querySelectorAll('div')).find(d =>[m[41m [m
+verify_phase4_2_crowd_routing.cjs:198: trailing whitespace.
+[32m+[m[32m    const distanceTexts = Array.from(document.querySelectorAll('div, span')).filter(el =>[m[41m [m
+verify_phase4_2_crowd_routing.cjs:202: trailing whitespace.
+[32m+[m[32m    const navPanel = Array.from(document.querySelectorAll('div')).find(d =>[m[41m [m
+verify_phase4_2_crowd_routing.cjs:222: trailing whitespace.
+[32m+[m[32m    const avoidBtn = Array.from(document.querySelectorAll('button')).find(b =>[m[41m [m
+verify_phase4_2_crowd_routing.cjs:236: trailing whitespace.
+[32m+[m[32m    const detourBadge = Array.from(document.querySelectorAll('div')).find(d =>[m[41m [m
+verify_phase4_2_crowd_routing.cjs:239: trailing whitespace.
+[32m+[m[32m    const avoidBtn = Array.from(document.querySelectorAll('button')).find(b =>[m[41m [m
+verify_phase4_2_crowd_routing.cjs:242: trailing whitespace.
+[32m+[m[32m    const distanceTexts = Array.from(document.querySelectorAll('div, span')).filter(el =>[m[41m [m
+verify_phase4_2_crowd_routing.cjs:260: trailing whitespace.
+[32m+[m[32m    const avoidBtn = Array.from(document.querySelectorAll('button')).find(b =>[m[41m [m
+verify_phase4_2_crowd_routing.cjs:270: trailing whitespace.
+[32m+[m[32m    const sosBtn = document.querySelector('button[aria-label="Emergency SOS Assistance"]') ||[m[41m [m
